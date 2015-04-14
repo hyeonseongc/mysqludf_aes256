@@ -3,7 +3,7 @@ MySQL user defined function which uses AES 256bit encrypt and decrypt
 
 ## Prerequired
 * mysql development package (header files)
-* libmcrypt
+* libmcrypt with development package (mcrypt.h)
 * gcc
 
 ## Build
