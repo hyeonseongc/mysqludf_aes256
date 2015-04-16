@@ -1,4 +1,4 @@
-MySQL user defined function which uses AES 256bit encrypt and decrypt
+MySQL user defined function for AES 256bit encrypt and decrypt
 ========
 
 ## Prerequired
